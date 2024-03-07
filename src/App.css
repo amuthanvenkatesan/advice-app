@@ -109,4 +109,16 @@ button:hover span{
         width:80%;
         height: 50%;
     }
+    .heading{
+        padding: 5px;
+        display: flex;
+        justify-content: top ;
+        align-items: center;
+    }   
+    button{
+        padding:5px;
+        display:flex;
+        justify-content: bottom;
+        align-items: center
+    }   
 }
